@@ -18,7 +18,6 @@
 - HTML
 - CSS
 - Java
-- React
 - python
 - Node.js
 - Arduino
