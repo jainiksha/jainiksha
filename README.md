@@ -17,8 +17,9 @@
 ## 🛠️ Tech Stack
 - HTML
 - CSS
-- JavaScript
+- Java
 - React
+- python
 - Node.js
 - Arduino
 - Git & GitHub
