@@ -15,13 +15,9 @@
 ---
 
 ## 🛠️ Tech Stack
-- HTML
-- CSS
-- Java
-- python
-- Node.js
-- Arduino
-- Git & GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,arduino,vscode" />
+</p>
 
 ---
 
