@@ -32,3 +32,11 @@ Arduino based smart security system using RFID.
 
 ### 🌦️ Smart Irrigation System
 Automated irrigation using weather prediction.
+
+---
+
+## 📊 GitHub Stats
+
+![Jainiksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=jainiksha&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainiksha&layout=compact&theme=tokyonight)
