@@ -1,5 +1,9 @@
 # Hi 👋, I'm Jainiksha
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&lines=Open+Source+Contributor;Web+Developer;Robotics+Enthusiast;GSSoC+Contributor" />
+</p>
+
 🚀 Open Source Contributor  
 💻 Web Developer & Robotics Enthusiast  
 🏆 GSSoC Contributor  
