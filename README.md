@@ -9,182 +9,202 @@
 🏆 GSSoC Contributor • Hackathon Participant • Problem Solver
 </p>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&center=true&vCenter=true&width=1000&lines=AI+%26+DS+Student;Open+Source+Contributor;Full+Stack+Developer;IoT+Enthusiast;Always+Learning+New+Things" />
+
 ---
 
-## 👨‍💻 About Me
+# 🌐 Socials
 
-🎓 Pursuing B.Tech in Computer Science Engineering (Artificial Intelligence & Data Science) at Marwadi University.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jainiksha)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-🚀 Passionate about Open Source, Artificial Intelligence, IoT, and Full Stack Development.
+---
 
-🌱 Currently learning:
+# 👨‍💻 About Me
+
+🎓 B.Tech Computer Science Engineering (Artificial Intelligence & Data Science)
+
+🏫 Marwadi University
+
+🌱 Currently Learning
+
 - MERN Stack Development
 - Data Structures & Algorithms
-- Artificial Intelligence & Machine Learning
+- Artificial Intelligence
 - System Design
 
-💡 Interested in:
-- AI & Machine Learning
+💡 Interested In
+
+- Artificial Intelligence
 - Internet of Things (IoT)
 - Full Stack Development
 - Open Source Contributions
 
-🏅 Highlights:
+🏆 Highlights
+
 - GSSoC Contributor
-- Active Open Source Contributor
+- Open Source Enthusiast
 - Hackathon Participant
 - Ex-Committee Member, Robotics Club
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,mysql" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Platforms
+### AI / ML
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino" />
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
+### IoT & Hardware
 
-## 🌟 Open Source Journey
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=esphome&logoColor=white)
 
-- 🚀 Contributing to open-source projects through GSSoC
-- 🐛 Fixing bugs and improving user experience
-- ✨ Implementing new features and enhancements
-- 🤝 Collaborating with developers across various repositories
-- 📚 Continuously learning through real-world contributions
+### Tools
 
----
-
-## 🚀 Featured Projects
-
-### 🌿 AquaLeaf – Smart Irrigation System
-
-An IoT-based Smart Irrigation System that automates watering using soil moisture sensing and weather prediction.
-
-#### Features
-- Smart Irrigation Automation
-- Weather Prediction Integration
-- Real-Time Monitoring
-- Blynk Dashboard
-- Water Conservation
-
-#### Technologies
-ESP32 • Blynk • Arduino IDE • OpenWeatherMap API
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 🔐 Smart RFID Door Lock
+# 🌟 Open Source Journey
 
-A secure RFID-based door locking system designed using Arduino and MFRC522 RFID technology.
-
-#### Features
-- RFID Authentication
-- LCD Display Feedback
-- Servo Motor Lock Control
-- Security Alerts
-
-#### Technologies
-Arduino Uno • MFRC522 • Servo Motor • LCD Display
+- 🚀 GSSoC Contributor
+- 🐛 Bug Fixes & Feature Enhancements
+- ✨ UI/UX Improvements
+- 🤝 Community Collaboration
+- 📚 Continuous Learning Through Open Source
 
 ---
 
-### 🤖 AI-Based Smart Agriculture Concepts
+# 🚀 Featured Projects
 
-Exploring AI-powered agriculture solutions including:
+## 🌿 AquaLeaf - Smart Irrigation System
 
-- Soil pH Prediction
-- Nutrition Suggestions
-- Plant Growth Monitoring
-- Compost Recommendations
+Smart Irrigation System using ESP32, Soil Moisture Sensor and Weather Prediction APIs.
+
+### Features
+
+✅ Automatic Irrigation
+
+✅ Weather Prediction
+
+✅ Blynk Monitoring Dashboard
+
+✅ Water Conservation
+
+### Tech Stack
+
+ESP32 • Arduino IDE • Blynk • OpenWeatherMap API
 
 ---
 
-## 🏆 Achievements
+## 🔐 Smart RFID Door Lock
+
+RFID-based Smart Security System using Arduino.
+
+### Features
+
+✅ RFID Authentication
+
+✅ Servo Lock Mechanism
+
+✅ LCD Display
+
+✅ Security Alerts
+
+### Tech Stack
+
+Arduino • MFRC522 • Servo Motor • LCD
+
+---
+
+# 🏆 Achievements
 
 - 🎖️ GSSoC Contributor
 - 🚀 Multiple Open Source Contributions
-- 💡 Participated in National Level Hackathons
-- 🤖 Built IoT and AI-based Projects
-- 🎯 Active Community Contributor
+- 🤖 Developed IoT Projects
+- 💡 Hackathon Participant
+- 🏅 Ex-Committee Member, Robotics Club
 
 ---
 
-## 📈 GitHub Activity
+# 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jainiksha&theme=github-compact" />
-</p>
+[![Jainiksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jainiksha&theme=react-dark)](https://github.com/jainiksha)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jainiksha&show_icons=true&theme=tokyonight" height="180"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainiksha&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jainiksha&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jainiksha&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jainiksha&theme=tokyonight&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=jainiksha&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-<p align="left">
+📧 Email: YOUR_EMAIL
 
 💼 LinkedIn: YOUR_LINKEDIN_URL
 
 🐙 GitHub: https://github.com/jainiksha
 
-📧 Email: YOUR_EMAIL
-
-</p>
-
 ---
 
-## 💭 Quote
+# 💭 Quote
 
-> "Code, Learn, Build, Contribute, Repeat. 🚀"
+> "Code. Learn. Build. Contribute. Repeat. 🚀"
 
 ---
 
