@@ -140,19 +140,6 @@
 
 ---
 
-<details>
-<summary><b>🐍 Contribution Snake</b></summary>
-
-<br>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/jainiksha/jainiksha/output/github-contribution-grid-snake.svg"/>
-</p>
-
-</details>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
