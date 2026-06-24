@@ -83,37 +83,73 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
+
+<details>
+<summary><b>📈 Stats & Language Breakdown</b></summary>
+
+<br>
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jainiksha&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jainiksha&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainiksha&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainiksha&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
 </p>
+
+</details>
 
 ---
 
-# 🔥 GitHub Streak
+<details>
+<summary><b>🔥 GitHub Streak</b></summary>
+
+<br>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainiksha&theme=tokyonight&hide_border=true"/>
 </p>
 
+</details>
+
 ---
 
-# 📈 Contribution Graph
+<details>
+<summary><b>📈 Contribution Graph</b></summary>
+
+<br>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jainiksha&theme=tokyo-night&hide_border=true"/>
 </p>
 
+</details>
+
 ---
 
-# 🏆 GitHub Trophies
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+
+<br>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jainiksha&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jainiksha&theme=tokyonight&row=2&column=4"/>
 </p>
+
+</details>
+
+---
+
+<details>
+<summary><b>🐍 Contribution Snake</b></summary>
+
+<br>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/jainiksha/jainiksha/output/github-contribution-grid-snake.svg"/>
+</p>
+
+</details>
 
 ---
 
