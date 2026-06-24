@@ -2,10 +2,6 @@
 𝓙𝓪𝓲𝓷𝓲𝓴𝓼𝓱𝓪 𝓟𝓪𝓽𝓮𝓵
 </h1>
 
-<h3 align="center">
-🚀 Open Source Contributor • 🤖 AI & IoT Enthusiast
-</h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI/ML+Enthusiast;Data+Science+Enthusiast;Full+Stack+Learner;Open+Source+Contributor;Building+Intelligent+Solution+with+AI%2C+ML+%26+IoT;Always+Learning+New+Things" />
 </p>
