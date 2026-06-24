@@ -161,3 +161,9 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/jainiksha/jainiksha/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jainiksha&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
