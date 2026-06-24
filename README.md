@@ -1,177 +1,99 @@
-<h1 align="center">Hi 👋, I'm Jainiksha Patel</h1>
+<h1 align="center">
+𝓙𝓪𝓲𝓷𝓲𝓴𝓼𝓱𝓪 𝓟𝓪𝓽𝓮𝓵
+</h1>
 
 <h3 align="center">
-🚀 Open Source Contributor | 🤖 AI & IoT Enthusiast | 💻 Full Stack Developer
+🚀 Open Source Contributor • 💻 Full Stack Developer • 🤖 AI & IoT Enthusiast
 </h3>
 
 <p align="center">
-🎓 B.Tech CSE (AI & DS) @ Marwadi University <br>
-🏆 GSSoC Contributor • Hackathon Participant • Problem Solver
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=CSE+(AI+%26+DS)+Student;GSSoC+Contributor;Open+Source+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" />
 </p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&center=true&vCenter=true&width=1000&lines=AI+%26+DS+Student;Open+Source+Contributor;Full+Stack+Developer;IoT+Enthusiast;Always+Learning+New+Things" />
 
 ---
 
 # 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jainiksha)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<p align="left">
+
+<a href="https://www.linkedin.com/in/jainiksha-patel-78706331b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jainiksha.patel2007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jainiksha">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@jainikshapatel6024?si=FCuf3na0nuxLJnSK">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-# 👨‍💻 About Me
+# 💻 Tech Stack
 
-🎓 B.Tech Computer Science Engineering (Artificial Intelligence & Data Science)
+<p align="left">
 
-🏫 Marwadi University
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-🌱 Currently Learning
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-- MERN Stack Development
-- Data Structures & Algorithms
-- Artificial Intelligence
-- System Design
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-💡 Interested In
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-- Artificial Intelligence
-- Internet of Things (IoT)
-- Full Stack Development
-- Open Source Contributions
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-🏆 Highlights
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-- GSSoC Contributor
-- Open Source Enthusiast
-- Hackathon Participant
-- Ex-Committee Member, Robotics Club
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-# 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-### Programming Languages
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-### Frontend
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-### Backend
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-### Database
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
 
-### AI / ML
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![ScikitLearn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
-### IoT & Hardware
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=esphome&logoColor=white)
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-### Tools
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-# 🌟 Open Source Journey
-
-- 🚀 GSSoC Contributor
-- 🐛 Bug Fixes & Feature Enhancements
-- ✨ UI/UX Improvements
-- 🤝 Community Collaboration
-- 📚 Continuous Learning Through Open Source
-
----
-
-# 🚀 Featured Projects
-
-## 🌿 AquaLeaf - Smart Irrigation System
-
-Smart Irrigation System using ESP32, Soil Moisture Sensor and Weather Prediction APIs.
-
-### Features
-
-✅ Automatic Irrigation
-
-✅ Weather Prediction
-
-✅ Blynk Monitoring Dashboard
-
-✅ Water Conservation
-
-### Tech Stack
-
-ESP32 • Arduino IDE • Blynk • OpenWeatherMap API
-
----
-
-## 🔐 Smart RFID Door Lock
-
-RFID-based Smart Security System using Arduino.
-
-### Features
-
-✅ RFID Authentication
-
-✅ Servo Lock Mechanism
-
-✅ LCD Display
-
-✅ Security Alerts
-
-### Tech Stack
-
-Arduino • MFRC522 • Servo Motor • LCD
-
----
-
-# 🏆 Achievements
-
-- 🎖️ GSSoC Contributor
-- 🚀 Multiple Open Source Contributions
-- 🤖 Developed IoT Projects
-- 💡 Hackathon Participant
-- 🏅 Ex-Committee Member, Robotics Club
-
----
-
-# 📈 Contribution Graph
-
-[![Jainiksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jainiksha&theme=react-dark)](https://github.com/jainiksha)
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jainiksha&show_icons=true&theme=tokyonight" height="180"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jainiksha&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainiksha&layout=compact&theme=tokyonight" height="180"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainiksha&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -179,7 +101,15 @@ Arduino • MFRC522 • Servo Motor • LCD
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jainiksha&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jainiksha&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jainiksha&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -187,27 +117,25 @@ Arduino • MFRC522 • Servo Motor • LCD
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jainiksha&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jainiksha&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 🐍 Contribution Snake
 
-📧 Email: YOUR_EMAIL
-
-💼 LinkedIn: YOUR_LINKEDIN_URL
-
-🐙 GitHub: https://github.com/jainiksha
-
----
-
-# 💭 Quote
-
-> "Code. Learn. Build. Contribute. Repeat. 🚀"
+<p align="center">
+<img src="https://raw.githubusercontent.com/jainiksha/jainiksha/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+<img src="https://komarev.com/ghpvc/?username=jainiksha&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
+
+---
+
+<h3 align="center">
+⭐ Code • Learn • Build • Contribute • Repeat ⭐
+</h3>
