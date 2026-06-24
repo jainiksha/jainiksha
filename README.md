@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-🚀 Open Source Contributor • 💻 Full Stack Developer • 🤖 AI & IoT Enthusiast
+🚀 Open Source Contributor • 🤖 AI & IoT Enthusiast
 </h3>
 
 <p align="center">
@@ -129,9 +129,3 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=jainiksha&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
-
----
-
-<h3 align="center">
-⭐ Code • Learn • Build • Contribute • Repeat ⭐
-</h3>
