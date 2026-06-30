@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24&text=Jainiksha%20Patel&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20|%20ML%20|%20Full%20Stack%20Developer%20|%20Open%20Source%20Contributor&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24&text=Jainiksha%20Patel&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38"/>
 
 <h1 align="center">Hi 👋, I'm Jainiksha Patel</h1>
 
