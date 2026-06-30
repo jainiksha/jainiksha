@@ -48,16 +48,6 @@ AI & Data Science Student • Open Source Contributor • AI/ML Enthusiast
 
 ---
 
-### 🌸 Open Source Highlights
-
-- 🏆 Ranked **#8** in GSSoC'26
-- ⭐ **35.9 Total Points**
-- 👥 **38 Followers**
-- 🚀 Active contributor to multiple Open Source repositories
-- 💙 Passionate about AI, Full Stack Development & Community Contributions
-
----
-
 # 🏅 My GSSoC'26 Badge Collection
 
 <div align="center">
