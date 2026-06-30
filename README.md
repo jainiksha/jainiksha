@@ -153,16 +153,6 @@ AI & Data Science Student • Open Source Contributor • AI/ML Enthusiast
 
 ---
 
-# ⚡ Contribution Stats
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=jainiksha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
