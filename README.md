@@ -60,8 +60,8 @@ AI & Data Science Student • Open Source Contributor • AI/ML Enthusiast
 
 <!-- Replace the src values below with your actual badge image URLs -->
 
-<img width="85" src="BADGE_01_URL"/>
-<img width="85" src="BADGE_02_URL"/>
+<img width="85" src="BADGE_01_"C:\Users\Lenovo\Downloads\gssoc-badge-top_50.png""/>
+<img width="85" src="BADGE_02_"C:\Users\Lenovo\Downloads\gssoc-badge-top_100.png""/>
 <img width="85" src="BADGE_03_URL"/>
 <img width="85" src="BADGE_04_URL"/>
 <img width="85" src="BADGE_05_URL"/>
@@ -185,28 +185,6 @@ AI & Data Science Student • Open Source Contributor • AI/ML Enthusiast
 <div align="center">
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jainiksha&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 📋 GitHub Summary
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jainiksha&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jainiksha&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jainiksha&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jainiksha&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
