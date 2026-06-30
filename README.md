@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24&text=Jainiksha%20Patel&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24&text=𝓙𝓪𝓲𝓷𝓲𝓴𝓼𝓱𝓪%20𝓟𝓪𝓽𝓮𝓵&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38"/>
 
 <h1 align="center">Hi 👋, I'm Jainiksha Patel</h1>
 
