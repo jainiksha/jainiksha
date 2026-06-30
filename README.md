@@ -3,12 +3,12 @@
 <h1 align="center">Hi 👋, I'm Jainiksha Patel</h1>
 
 <h3 align="center">
-🚀 AI & Data Science Student | Open Source Contributor | Full Stack Learner | IoT Enthusiast
+AI & Data Science Student • Open Source Contributor • AI/ML Enthusiast
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;GirlScript+Summer+of+Code+2026+Contributor;Building+Real+World+AI+Projects;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;GirlScript+Summer+of+Code+2026+Contributor;Building+Real+World+AI+Projects;Open+Source+Contributor;Always+Learning+New+Things+🚀" />
 
 </p>
 
@@ -16,9 +16,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=jainiksha&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
-<img src="https://img.shields.io/github/followers/jainiksha?logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/jainiksha?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/jainiksha?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/jainiksha?style=for-the-badge"/>
 
 </p>
 
@@ -29,7 +29,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jainiksha-patel-78706331b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:jainiksha.patel2007@gmail.com">
@@ -48,319 +48,175 @@
 
 ---
 
-# 💫 About Me
+# 🏆 GirlScript Summer of Code 2026
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-🎓 **B.Tech Computer Science Engineering (AI & Data Science)**
-
-🌱 Currently exploring **Generative AI, Machine Learning, Cloud Computing & System Design**
-
-💻 Passionate about
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🌐 Full Stack Development
-- 📊 Data Science
-- 📱 Internet of Things
-- 🚀 Open Source
-
-🏆 **GirlScript Summer of Code 2026 Contributor**
-
-💬 Ask me about
-
-- Python
-- React
-- Node.js
-- AI & ML
-- Data Science
-- IoT Projects
-
-⚡ **Fun Fact**
-
-> "I believe every problem has a solution waiting to be built with technology."
-
----
-
-# 🏆 Open Source Journey
-
-<p align="center">
+<div align="center">
 
 <a href="https://gssoc.girlscript.org/profile/fc2e6220-47de-4f33-ba27-dfac17c7ae35">
 
-<img src="https://img.shields.io/badge/GSSoC'26-Contributor-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌸%20View%20My%20GSSoC%20Profile-FF4D8D?style=for-the-badge"/>
 
 </a>
 
-<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/AI-Developer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏆%20Rank-%238-ff9800?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Full%20Stack-Learner-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⭐%20Points-35.9-2196f3?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/👥%20Followers-38-00c853?style=for-the-badge"/>
 
-### 🌟 Open Source Highlights
+<img src="https://img.shields.io/badge/🚀%20Contributor-GSSoC'26-e91e63?style=for-the-badge"/>
 
-- 🌸 **GirlScript Summer of Code 2026 (GSSoC'26) Contributor**
-- 💻 Active contributor across multiple open-source repositories
-- 🚀 Building impactful AI, Machine Learning, Full Stack & IoT projects
-- 🤝 Passionate about collaboration and continuous learning
-- 🌍 Always excited to contribute to the developer community
+</div>
+
+### 🌸 Open Source Highlights
+
+- 🏆 Ranked **#8** in GSSoC'26
+- ⭐ **35.9 Total Points**
+- 👥 **38 Followers**
+- 🚀 Active contributor to multiple Open Source repositories
+- 💙 Passionate about AI, Full Stack Development & Community Contributions
+
+---
+
+# 🏅 My GSSoC'26 Badge Collection
+
+<div align="center">
+
+### 🌸 Badges Earned During GirlScript Summer of Code 2026
+
+> 🚀 Every badge represents a milestone achieved during my Open Source journey.
+
+<br>
+
+<!-- Replace the src values below with your actual badge image URLs -->
+
+<img width="85" src="BADGE_01_URL"/>
+<img width="85" src="BADGE_02_URL"/>
+<img width="85" src="BADGE_03_URL"/>
+<img width="85" src="BADGE_04_URL"/>
+<img width="85" src="BADGE_05_URL"/>
+
+<br>
+
+<img width="85" src="BADGE_06_URL"/>
+<img width="85" src="BADGE_07_URL"/>
+<img width="85" src="BADGE_08_URL"/>
+<img width="85" src="BADGE_09_URL"/>
+<img width="85" src="BADGE_10_URL"/>
+
+<br>
+
+<img width="85" src="BADGE_11_URL"/>
+<img width="85" src="BADGE_12_URL"/>
+<img width="85" src="BADGE_13_URL"/>
+<img width="85" src="BADGE_14_URL"/>
+<img width="85" src="BADGE_15_URL"/>
+
+<br>
+
+<img width="85" src="BADGE_16_URL"/>
+<img width="85" src="BADGE_17_URL"/>
+<img width="85" src="BADGE_18_URL"/>
+<img width="85" src="BADGE_19_URL"/>
+<img width="85" src="BADGE_20_URL"/>
+
+</div>
 
 ---
 
 # 💻 Tech Stack
 
-<h3 align="center">👨‍💻 Programming Languages</h3>
+<p align="left">
 
-<p align="center">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<h3 align="center">🎨 Frontend Development</h3>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
----
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-<h3 align="center">⚙️ Backend Development</h3>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<h3 align="center">🗄️ Databases</h3>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-<h3 align="center">🤖 AI • Machine Learning • Data Science</h3>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,opencv,pandas,numpy,scikitlearn" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<h3 align="center">☁️ Cloud • DevOps</h3>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=gcp,docker,github,git,postman" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-<h3 align="center">🔧 Tools & Software</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,photoshop,arduino" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 
 </p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🌱 AquaLeaf
-
-AI Powered Smart Irrigation System
-
-✅ ESP32
-
-✅ IoT
-
-✅ Blynk
-
-✅ Weather Prediction
-
-✅ Smart Farming
-
-</td>
-
-<td width="50%">
-
-### 🤖 RepoPilot
-
-AI GitHub Repository Analyzer
-
-✅ FastAPI
-
-✅ React
-
-✅ Gemini AI
-
-✅ Repository Insights
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 📚 AlgoBuddy
-
-Interactive Learning Platform
-
-✅ DSA Visualizer
-
-✅ Quiz Mode
-
-✅ Smart Revision
-
-✅ React
-
-</td>
-
-<td width="50%">
-
-### 🔐 Smart RFID Door Lock
-
-IoT Security System
-
-✅ ESP32
-
-✅ RFID
-
-✅ LCD
-
-✅ Servo Motor
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📈 What I'm Working On
-
-- 🚀 Building AI-powered applications
-- 🌱 Developing IoT-based smart systems
-- 🤝 Contributing to Open Source projects
-- 📚 Strengthening Data Structures & Algorithms
-- 💻 Learning advanced Full Stack Development
-
----
-
-# 📚 Currently Learning
-
-<table>
-
-<tr>
-
-<td>🤖 Generative AI</td>
-
-<td>🧠 Machine Learning</td>
-
-</tr>
-
-<tr>
-
-<td>⚡ LangChain</td>
-
-<td>☁️ Cloud Computing</td>
-
-</tr>
-
-<tr>
-
-<td>🐳 Docker</td>
-
-<td>📈 System Design</td>
-
-</tr>
-
-<tr>
-
-<td>📚 Advanced DSA</td>
-
-<td>🛠️ REST APIs</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎯 Goals for 2026
-
-🎯 Reach **1000+ GitHub Contributions**
-
-🚀 Build **20+ AI Projects**
-
-🌍 Contribute to **Major Open Source Organizations**
-
-☁️ Learn **AWS, Docker & Kubernetes**
-
-💼 Secure an **AI Engineer Internship**
-
-📖 Master **System Design**
-
-🤝 Collaborate with Developers Worldwide
-
-⭐ Grow to **1000+ GitHub Followers**
-
----
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jainiksha&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jainiksha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainiksha&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainiksha&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=jainiksha&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jainiksha&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jainiksha&theme=tokyo-night&hide_border=true"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jainiksha&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -388,7 +244,7 @@ IoT Security System
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -398,7 +254,7 @@ IoT Security System
 
 ---
 
-# ⚡ GitHub Insights
+# ⚡ Contribution Stats
 
 <div align="center">
 
@@ -408,102 +264,32 @@ IoT Security System
 
 ---
 
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/58a6ff/jainiksha" alt="Contribution Calendar"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jainiksha/jainiksha/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/jainiksha/jainiksha/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </div>
 
-> **Note:** You'll need to create a GitHub Action later to generate this automatically. I'll help you with that after the README is finished.
-
 ---
 
-# 🏅 Open Source Programs
+# 📜 Certifications
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-### 🌸 GirlScript Summer of Code 2026
-
-<a href="https://gssoc.girlscript.org/profile/fc2e6220-47de-4f33-ba27-dfac17c7ae35">
-
-<img src="https://img.shields.io/badge/GSSoC'26-Contributor-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<br><br>
-
-Open Source Contributor
-
-</td>
-
-<td align="center" width="50%">
-
-### 🚀 More Coming Soon
-
-🏅 Hackathons
-
-🏅 Certifications
-
-🏅 Open Source Programs
-
-🏅 Community Contributions
-
-</td>
-
-</tr>
-</table>
+| 🎓 Certificate | Status |
+|---------------|--------|
+| Python Programming | ✅ |
+| Git & GitHub | ✅ |
+| AI & Machine Learning | 🚀 |
+| Full Stack Development | 🚀 |
 
 </div>
 
 ---
 
-# 📜 Certifications & Learning
-
-| 🎓 Certification | Status |
-|------------------|--------|
-| Python Programming | ✅ Completed |
-| Git & GitHub | ✅ Completed |
-| AI & Machine Learning | 🚀 Learning |
-| Data Science | 🚀 Learning |
-| Full Stack Development | 🚀 Learning |
-| Cloud Computing | 📚 Planned |
-
----
-
-# 🌟 Open Source Highlights
-
-<div align="center">
-
-| 🚀 Achievement | Details |
-|---------------|---------|
-| 🌸 GSSoC 2026 | Active Contributor |
-| 💻 Pull Requests | Contributing to multiple repositories |
-| 🐛 Bug Fixes | Web Development & AI Projects |
-| ✨ Features | React, Node.js, Python |
-| 🌍 Community | Collaborating with developers worldwide |
-
-</div>
-
----
-
-# 🚀 Featured Repository Showcase
+# 🚀 Featured Repositories
 
 <div align="center">
 
@@ -525,191 +311,27 @@ Open Source Contributor
 
 <div align="center">
 
-> ⭐ *More featured repositories will appear here as I continue building impactful projects.*
+<a href="https://github.com/jainiksha">
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jainiksha&repo=RepoPilot&theme=tokyonight&hide_border=true"/>
 
----
-
-# 📈 My Journey
-
-```text
-2024 🎓 Started B.Tech (AI & DS)
-
-     │
-
-     ├── Learned C, C++, Java & Python
-
-     │
-
-2025 🚀 Built AI & IoT Projects
-
-     │
-
-     ├── Smart RFID Door Lock
-
-     ├── AquaLeaf
-
-     ├── AI Projects
-
-     │
-
-2026 🌸 GSSoC Contributor
-
-     │
-
-     ├── Open Source Contributions
-
-     ├── Full Stack Projects
-
-     ├── AI/ML Development
-
-     │
-
-Future 🚀
-
-     ├── AI Engineer
-
-     ├── Open Source Maintainer
-
-     ├── SaaS Founder
-```
-
----
-
-# 💡 Developer Philosophy
-
-<div align="center">
-
-> **"Code with purpose, learn continuously, and contribute to make technology accessible for everyone."**
-
-</div>
-
----
-
-# 💬 Random Developer Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-# 📈 GitHub Fun Facts
-
-<div align="center">
-
-| 💡 Fun Fact | 🚀 |
-|-------------|----|
-| 🌱 Currently Learning | AI • ML • Cloud Computing |
-| 💻 Favorite Language | Python |
-| 🤝 Loves | Open Source |
-| ⚡ Interested In | AI, Full Stack & IoT |
-| 🚀 Dream Role | AI Engineer |
-
-</div>
-
----
-
-# 🌟 Beyond Coding
-
-<div align="center">
-
-🧠 Exploring Artificial Intelligence
-
-🌍 Contributing to Open Source
-
-📚 Continuous Learning
-
-🤝 Building Meaningful Connections
-
-💡 Creating Real-World Solutions
-
-</div>
-
----
-
-# 📊 Weekly Development Breakdown
-
-> *(Optional — Enable WakaTime later if you want automatic coding statistics.)*
-
-```text
-Python        ████████████░░░░   50%
-
-JavaScript    ████████░░░░░░░░   30%
-
-React         █████░░░░░░░░░░░   15%
-
-Others        ██░░░░░░░░░░░░░░    5%
-```
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to collaborating on exciting projects in:
-
-🤖 Artificial Intelligence
-
-🌐 Full Stack Development
-
-📊 Data Science
-
-📱 IoT Projects
-
-💻 Open Source
-
-<br>
-
-<a href="mailto:jainiksha.patel2007@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jainiksha-patel-78706331b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/jainiksha">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jainiksha&repo=Smart-RFID-Door-Lock&theme=tokyonight&hide_border=true"/>
+
 </a>
 
 </div>
 
----
-
-# ❤️ Support My Work
-
-<div align="center">
-
-⭐ Star my repositories
-
-🍴 Fork & contribute
-
-🤝 Connect with me
-
-💬 Share feedback
-
-🚀 Let's build something amazing together!
-
-</div>
+> **Replace the repository names above if your actual repository names are different.**
 
 ---
 
-# 👀 Thanks for Visiting!
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=jainiksha&label=Visitors&style=for-the-badge&color=blue"/>
-
-<br><br>
-
-### ⭐ If you like my work, consider following me on GitHub!
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://komarev.com/ghpvc/?username=jainiksha&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -717,12 +339,12 @@ I'm always open to collaborating on exciting projects in:
 
 <div align="center">
 
-## 💖 Happy Coding!
+### ⭐ Thanks for visiting my profile!
 
-*"The best way to predict the future is to create it."* 🚀
+*"Building AI-powered solutions, contributing to Open Source, and learning every day."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 </div>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24"/>
