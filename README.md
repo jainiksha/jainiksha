@@ -48,28 +48,6 @@ AI & Data Science Student • Open Source Contributor • AI/ML Enthusiast
 
 ---
 
-# 🏆 GirlScript Summer of Code 2026
-
-<div align="center">
-
-<a href="https://gssoc.girlscript.org/profile/fc2e6220-47de-4f33-ba27-dfac17c7ae35">
-
-<img src="https://img.shields.io/badge/🌸%20View%20My%20GSSoC%20Profile-FF4D8D?style=for-the-badge"/>
-
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🏆%20Rank-%238-ff9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/⭐%20Points-35.9-2196f3?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/👥%20Followers-38-00c853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🚀%20Contributor-GSSoC'26-e91e63?style=for-the-badge"/>
-
-</div>
-
 ### 🌸 Open Source Highlights
 
 - 🏆 Ranked **#8** in GSSoC'26
