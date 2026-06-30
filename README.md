@@ -118,9 +118,9 @@ AI & Data Science Student • Open Source Contributor • AI/ML Enthusiast
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jainiksha&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="[https://github-readme-stats.vercel.app/api](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api)?username=jainiksha&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainiksha&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/)?username=jainiksha&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 <br>
