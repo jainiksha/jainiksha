@@ -85,7 +85,8 @@ AI & Data Science Student • Open Source Contributor • AI/ML Enthusiast
 
 </p>
 
-this i wanrt to make in icom
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
