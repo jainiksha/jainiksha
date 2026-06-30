@@ -48,52 +48,6 @@ AI & Data Science Student • Open Source Contributor • AI/ML Enthusiast
 
 ---
 
-# 🏅 My GSSoC'26 Badge Collection
-
-<div align="center">
-
-### 🌸 Badges Earned During GirlScript Summer of Code 2026
-
-> 🚀 Every badge represents a milestone achieved during my Open Source journey.
-
-<br>
-
-<!-- Replace the src values below with your actual badge image URLs -->
-
-<img width="85" src="BADGE_01_"C:\Users\Lenovo\Downloads\gssoc-badge-top_50.png""/>
-<img width="85" src="BADGE_02_"C:\Users\Lenovo\Downloads\gssoc-badge-top_100.png""/>
-<img width="85" src="BADGE_03_URL"/>
-<img width="85" src="BADGE_04_URL"/>
-<img width="85" src="BADGE_05_URL"/>
-
-<br>
-
-<img width="85" src="BADGE_06_URL"/>
-<img width="85" src="BADGE_07_URL"/>
-<img width="85" src="BADGE_08_URL"/>
-<img width="85" src="BADGE_09_URL"/>
-<img width="85" src="BADGE_10_URL"/>
-
-<br>
-
-<img width="85" src="BADGE_11_URL"/>
-<img width="85" src="BADGE_12_URL"/>
-<img width="85" src="BADGE_13_URL"/>
-<img width="85" src="BADGE_14_URL"/>
-<img width="85" src="BADGE_15_URL"/>
-
-<br>
-
-<img width="85" src="BADGE_16_URL"/>
-<img width="85" src="BADGE_17_URL"/>
-<img width="85" src="BADGE_18_URL"/>
-<img width="85" src="BADGE_19_URL"/>
-<img width="85" src="BADGE_20_URL"/>
-
-</div>
-
----
-
 # 💻 Tech Stack
 
 <p align="left">
