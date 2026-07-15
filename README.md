@@ -8,7 +8,7 @@ AI & Data Science Student • Open Source Contributor • AI/ML Enthusiast
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;GirlScript+Summer+of+Code+2026+Contributor;Building+Real+World+AI+Projects;Open+Source+Contributor;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Building+Real+World+AI+Projects;Open+Source+Contributor;Always+Learning+New+Things+🚀" />
 
 </p>
 
