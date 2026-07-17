@@ -116,16 +116,6 @@ AI & Data Science Student • Open Source Contributor • AI/ML Enthusiast
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jainiksha/jainiksha/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
----
-
 ### ⭐ Thanks for visiting my profile!
 
 *"Building AI-powered solutions, contributing to Open Source, and learning every day."*
